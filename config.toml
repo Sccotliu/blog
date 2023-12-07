@@ -1,4 +1,4 @@
-baseURL = 'https://sccotliu.github.io/blog/'
+baseURL = 'https://sccotliu.github.io/'
 languageCode = 'zh-cn'
 title = '博客（原【富荣园】）'
 theme = 'vno-hugo'
