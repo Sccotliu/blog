@@ -1,4 +1,9 @@
 baseURL = 'https://sccotliu.github.io/'
 languageCode = 'zh-CN'
-title = '博客（原【富荣园】）'
+title = '新的博客'
 theme = 'vno-hugo'
+
+[params]
+    subtitle = '原【富荣园】'
+    blogbutton.title = '查看'
+        
