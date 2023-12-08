@@ -25,9 +25,9 @@ paginatePath = "page"
 
 [menu]
   [[menu.main]]
-    name = "Projects"
+    name = "高考倒计时"
     identifier = "projects"
-    url = "http://project.onevcat.com/"
+    url = "http://k-zone.xyz/game"
     weight = 10
  [[menu.main]]
     name = "Tags"
@@ -63,7 +63,7 @@ weibo = "onevcat"
 github = "onevcat"
 twitter = "onevcat"
 gplus = "107108267983477358170"
-mail = "onev@onevcat.com"
+mail = "liu198143@126.com"
 linkedin = "example"
 
 [params.ga]
