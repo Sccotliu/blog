@@ -59,9 +59,9 @@ repo = ""
 owner = ""
 
 [params.social]
-weibo = "onevcat"
-github = "onevcat"
-twitter = "onevcat"
+weibo = "Mars-Plan"
+github = "sccotliu"
+gitee = "liu198143"
 gplus = "107108267983477358170"
 mail = "liu198143@126.com"
 linkedin = "example"
