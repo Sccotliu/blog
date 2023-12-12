@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ["照片","大胖"]
-title: "Bigfat Wine"
+title: "大胖精——酿酒馆"
 date: 2023-12-12T08:14:55+08:00
 math: false
 draft: false
