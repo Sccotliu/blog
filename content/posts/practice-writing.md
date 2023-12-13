@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ["练字","心态","健康"]
-title: "Practice Writing"
+title: "每日练字"
 date: 2023-12-11T08:51:34+08:00
 math: false
 draft: false
