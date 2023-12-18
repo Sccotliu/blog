@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: ["Say Hi","Vno"]
+tags: ["笔记本电脑","雪","减肥","运动"]
 title: "Maybe gitee"
 date: 2023-12-18T09:03:19+08:00
 math: false
