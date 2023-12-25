@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: ["Say Hi","Vno"]
+tags: ["综艺","人生"]
 title: "TVShow"
 date: 2023-12-25T09:47:14+08:00
 math: false
